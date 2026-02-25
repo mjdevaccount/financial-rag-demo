@@ -156,3 +156,7 @@ Content-Type: application/json
 ## License
 
 MIT
+
+## Related Projects
+
+- [financial-agent-demo](https://github.com/mjdevaccount/financialagent) — AI financial research agent using Semantic Kernel, Azure OpenAI, and Alpha Vantage with autonomous tool selection
